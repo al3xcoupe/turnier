@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Form from "./TournamentForm";
 import TournamentInfo from "./TournamentInfo";
 import TournamentForm from "./TournamentForm";
 
